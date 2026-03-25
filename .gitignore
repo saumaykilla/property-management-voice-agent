@@ -1,0 +1,34 @@
+# Node
+node_modules
+.pnpm-store
+.next
+out
+package-lock.json
+*.tsbuildinfo
+
+# Python
+.venv
+.uv-cache
+__pycache__
+.pytest_cache
+.ruff_cache
+.mypy_cache
+
+# Environment
+.env
+.env.local
+.env.*.local
+.vercel
+
+# Supabase
+supabase/.branches
+supabase/.temp
+
+# OS / editors
+.DS_Store
+.idea
+.vscode
+
+# Local agent tooling
+.agent
+.codex
