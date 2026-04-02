@@ -331,7 +331,7 @@ MIT License - see LICENSE file for details
 
 ## 🔗 Links
 
-- **Live Demo**: [https://property-management-voice-agent.vercel.app](https://property-management-voice-agent.vercel.app)
+- **Live Demo**: [Demo](https://property-management-voice-agent-web-beryl.vercel.app)
 - **Design Docs**: See `design/` folder
 - **API Documentation**: `services/voice-api` Swagger docs
 
